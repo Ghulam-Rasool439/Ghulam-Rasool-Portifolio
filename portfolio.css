@@ -141,7 +141,7 @@ nav ul li a:hover {
 /* Responsive Styling for Mobile */
 @media (max-width: 768px) {
     nav ul {
-        position: absolute;
+        position: fixed;
         right: 0;
         top: 0;
         height: 100vh;
